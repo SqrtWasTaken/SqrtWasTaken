@@ -1,4 +1,6 @@
-## Hi there 👋
+## hi i'm sqrt
+
+i don't know what i'm doing
 
 <!--
 **SqrtWasTaken/SqrtWasTaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
