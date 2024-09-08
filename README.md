@@ -1,6 +1,10 @@
-## hi
+## hi, i'm sqrt
 
-i don't know what i'm doing and i know you don't either!
+✨ pronouns: she/her
+
+✨ xkcd fan (favorite: [1053](https://xkcd.com/1053/))
+
+✨ illusion of competence
 
 <!--
 **SqrtWasTaken/SqrtWasTaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
