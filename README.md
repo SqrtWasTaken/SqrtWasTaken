@@ -1,10 +1,12 @@
 ## hi, i'm sqrt
 
-✨ pronouns: she/her
+i like xkcd (favorite: [1053](https://xkcd.com/1053/))
 
-✨ xkcd fan (favorite: [1053](https://xkcd.com/1053/))
+illusion of competence
 
-✨ illusion of competence
+i occasionally cook random stuff
+
+idk what else to put here
 
 <!--
 **SqrtWasTaken/SqrtWasTaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
